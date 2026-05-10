@@ -46,21 +46,7 @@
 
 ---
 
-### 四、项目结构
-
-MazeGame/
-├── main.cpp              # 程序入口
-├── mainwindow.h          # 主窗口头文件
-├── mainwindow.cpp        # 主窗口实现
-├── gamewidget.h          # 游戏画布头文件
-├── gamewidget.cpp        # 游戏画布实现
-├── .gitignore            # Git忽略文件
-├── LICENSE               # 许可证
-└── README.md             # 项目说明
----
-
-
-### 五、AI使用声明
+### 四、AI使用声明
 
 #### 使用的AI工具
 - **DeepSeek Chat**：辅助代码编写和调试
@@ -81,7 +67,7 @@ MazeGame/
 
 
 
-### 六、如何运行
+### 五、如何运行
 
 1. 安装Qt6（建议6.5以上版本）
 2. 用Qt Creator打开项目中的CMakeLists.txt或.pro文件
